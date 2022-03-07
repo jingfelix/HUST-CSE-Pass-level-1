@@ -13,14 +13,14 @@
 
 ***
 ## 目录
-* lab_0: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/main/lab_0'>介绍与引入</a>
-* lab_1: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/main/lab_1'>Linux主机基础实验</a>
-* lab_2: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/main/lab_2'>Windows靶机安装与验证</a>
-* lab_3: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/main/lab_3'>Win系统与桌面安全实验</a>
-* lab_4: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/main/lab_4'>数据库安全实验</a>
-* lab_5: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/main/lab_5'>加密与解密</a>
-* lab_6: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/main/lab_6'>Web安全技术</a>
-* lab_7: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/main/lab_7'>Web安全技术的使用</a>
+* lab_0: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-1/lab_0'>介绍与引入</a>
+* lab_1: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-1/lab_1'>Linux主机基础实验</a>
+* lab_2: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-1/lab_2'>Windows靶机安装与验证</a>
+* lab_3: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-1/lab_3'>Win系统与桌面安全实验</a>
+* lab_4: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-1/lab_4'>数据库安全实验</a>
+* lab_5: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-1/lab_5'>加密与解密</a>
+* lab_6: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-1/lab_6'>Web安全技术</a>
+* lab_7: <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-1/lab_7'>Web安全技术的使用</a>
 ***
 ## 注意事项
 * 本仓库内包含2021年上半年开课时的资料，考虑到网安实践课更新较快，部分内容可能已经失效，请以实际课程内容为准.
