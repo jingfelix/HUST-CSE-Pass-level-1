@@ -1,31 +1,32 @@
 # 华中科技大学 网络空间安全学院 2020级 网络空间安全综合实践
 
-# **重要提示！！！**
-* 本仓库仅包含**部分**课程资料，由于时间旧远等原因，并不是所有内容都被记录于此  
-* 本仓库内容并不适用于所有年级和所有专业
-
-***
-
 ## 介绍
-* 本仓库包含华科网安综合实践（II）大部分所需的资料，包括：
-    * 实验指导手册
-        * if have: 一般为 .docx 或 pdf 文档，命名为本次实验名
-    * 实验报告
-        * if have: 命名为 **lab_{x}_report.docx**
-        * else: 本人尽可能提供了踩坑记录，一般为md文档（很遗憾，部分学期没有）
-    * 实验可能用到的其他文件，不包括需要安装的软件（老师会提供）
-    * **特别注意：** level-2 lab 6-8 需要使用 Seed Ubuntu 和多个 Docker 镜像，如没有使用老师提供的镜像，希望手动配置，可以联系我.
-* 如需要其他文件，请<a href='mailto:jingfelix@outlook.com'>联系作者</a>.
+
+* 务必阅读文末注意事项
+* 本仓库包含华科网安综合实践 .I .II .III 大部分所需的资料，包括：
+  * 实验指导手册：
+  * 实验报告：命名为 **lab_{x}_report.docx**；本人尽可能提供了踩坑记录，一般为 md 文档（很遗憾，部分学期没有）
+  * 实验可能用到的其他文件，不包括需要安装的软件（老师会提供）
+  * 如需要其他文件，请[联系作者](mailto:jingfelix@outlook.com).
 
 ***
+
 ## 目录
-* <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-1/'>Level-1</a>
-* <a href='https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-2/'>Level-2</a>
+
+|实验分级 | 注意事项 |
+| --- | --- |
+| [Level-1](https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-1/) | 基本包含所有报告和实验记录 |
+| [Level-2](https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-2/) | 文件整理得很差，内容与22年授课内容差异非常大 |
+| [Level-3](https://github.com/jingfelix/HUST-CSE-Pass-level-1/tree/level-3/) | 包含完整的实验记录，内容可能与之后开课内容差异较大 |
+
+> 不一致的内容强烈建议参考另一位20级同学整理的[资料](https://github.com/2205794866/Cyber_Experiment)，非常详细！
+
 ***
 
 ## 注意事项
-* 本仓库内包含2021年开课时的资料，考虑到网安实践课更新较快，部分内容可能已经失效，请以实际课程内容为准.
-* 根据20级同学的反馈，信安和网安的课程内容略有不同，请以实际课程内容为准.
+
+* 本仓库内包含2021年开课时的资料，考虑到网安实践课更新较快，**部分内容已经失效**，请以实际课程内容为准.
+* 根据20级同学的反馈，**信安和网安的课程内容略有不同**，请以实际课程内容为准.
 * 为改善课程质量，希望同学们能积极地向老师提出建议.
 
 内容和源码仅供参考  
